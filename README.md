@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/versadness/sad-code">
-    <img src="https://raw.githubusercontent.com/versadness/sad-code/main/docs/images/sad-code-hero.png" width="860" alt="Sad Code — AI-native Code–OSS editor">
+    <img src="https://github.com/versadness/sad-code/raw/main/docs/images/sad-code-hero.png" width="860" alt="Sad Code — AI-native Code–OSS editor">
   </a>
 </p>
 
