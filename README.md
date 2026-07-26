@@ -33,7 +33,7 @@
 ## Current stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css" height="42" alt="TypeScript, JavaScript, Node.js, HTML and CSS">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,html,css" height="42" alt="TypeScript, JavaScript, Python, Node.js, HTML and CSS">
 </p>
 
 <p>
