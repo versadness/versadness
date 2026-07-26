@@ -61,6 +61,8 @@
   </tr>
 </table>
 
+<!-- GitHub profile README -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versadness/versadness/gh-pages/github-contribution-grid-snake-dark.svg">
