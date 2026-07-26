@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/versadness/sad-code">
-    <img src="https://raw.githubusercontent.com/versadness/sad-code/main/docs/images/sad-code-hero.png" width="860" alt="Sad Code — AI-native Code–OSS editor">
+    <img src="https://github.com/versadness/sad-code/blob/main/docs/images/sad-code-hero.png" width="860" alt="Sad Code — AI-native Code–OSS editor">
   </a>
 </p>
 
@@ -39,14 +39,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,githubactions,powershell,bash,windows,linux,vscode" height="42" alt="Git, GitHub Actions, PowerShell, Bash, Windows, Linux and Code–OSS">
 </p>
-
-## Featured project
-
-<table>
-  <tr>
-    <td width="86">
-      <a href="https://github.com/versadness/sad-code">
-        <img src="https://raw.githubusercontent.com/versadness/sad-code/main/docs/images/sad-code-icon.png" width="68" alt="Sad Code icon">
       </a>
     </td>
     <td>
@@ -62,11 +54,3 @@
 </table>
 
 <!-- GitHub profile README -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versadness/versadness/gh-pages/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/versadness/versadness/gh-pages/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/versadness/versadness/gh-pages/github-contribution-grid-snake.svg">
-  </picture>
-</p>
