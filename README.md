@@ -11,18 +11,6 @@
   memory, safe approvals, and multi-provider workflows.
 </p>
 
-<p align="center">
-  <a href="https://github.com/versadness/sad-code/releases/latest">
-    <img src="https://img.shields.io/github/v/release/versadness/sad-code?display_name=tag&sort=semver&style=for-the-badge&color=7c3aed" alt="Latest release">
-  </a>
-  <a href="https://github.com/versadness/sad-code/stargazers">
-    <img src="https://img.shields.io/github/stars/versadness/sad-code?style=for-the-badge&color=f97316" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/versadness/sad-code/issues">
-    <img src="https://img.shields.io/github/issues/versadness/sad-code?style=for-the-badge&color=06b6d4" alt="Open issues">
-  </a>
-</p>
-
 ## What I am building
 
 - A cross-platform desktop IDE based on Code–OSS.
@@ -42,13 +30,6 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/versadness/sad-code"><b>Sad Code</b></a><br>
-      Experimental AI-native Code–OSS editor for Windows and Linux.<br>
-      <a href="https://github.com/versadness/sad-code/releases/latest">Download</a>
-      ·
-      <a href="https://github.com/versadness/sad-code/issues">Report a bug</a>
-      ·
-      <a href="https://github.com/versadness/sad-code/discussions">Discuss an idea</a>
     </td>
   </tr>
 </table>
